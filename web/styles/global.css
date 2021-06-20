@@ -1,0 +1,17 @@
+/* 
+    Created on : Jun 20, 2021, 8:15:54 PM
+    Author     : edsonpaulo
+*/
+
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    background: #f1f2f6;
+    color: #121212;
+}
